@@ -253,4 +253,4 @@ Multiply two digits given by the user.
 ---
 
 ## Authors
-* **Hayatu Sanusi** - [Hamicch](github.com/Hamicch)
+* **Hayatu Sanusi** - [Hamicch](https://github.com/Hamicch/)
